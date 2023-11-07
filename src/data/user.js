@@ -6,7 +6,10 @@ const user = {
   links: {
     github: "https://github.com/liza",
     linkedin: "https://www.linkedin.com/in/liza/",
-  },
+  }
 };
+
+console.log (user.links.github)
+
 
 export default user;
